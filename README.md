@@ -12,6 +12,8 @@ A full-stack web application to track and visualize countries visited by each fa
 📊 See common and unique destinations
 
 🔐 Basic validation and error handling
+![image](https://github.com/user-attachments/assets/a2a02e1f-f9cb-4c6b-bad2-02f769f3fdb3)
+
 
 🛠️ Tech Stack
 Backend: Node.js + Express.js
